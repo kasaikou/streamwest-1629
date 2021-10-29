@@ -7,8 +7,7 @@
 I'm a collage student NOT becoming rumor in the street, and loving in making things.
 
 <div style="text-align:center">
-<img src="https://github-readme-stats.vercel.app/api/?username=streamwest-1629&show_icons=true&count_private=true" width=50%/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=streamwest-1629&layout=compact" width=50%/>
+<img src="https://github-readme-stats.vercel.app/api/?username=streamwest-1629&show_icons=true&count_private=true" width=50%/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=streamwest-1629&layout=compact" width=50%/>
 </div>
 
 ## 🖋 Writing with
