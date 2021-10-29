@@ -7,17 +7,13 @@
 I'm a collage student NOT becoming rumor in the street, and loving in making things.
 
 <div style="text-align:center">
-<img src="https://github-readme-stats.vercel.app/api/?username=streamwest-1629&show_icons=true&count_private=true" width=100%/>
+<img src="https://github-readme-stats.vercel.app/api/?username=streamwest-1629&show_icons=true&count_private=true" width=50%/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=streamwest-1629&layout=compact" width=50%/>
 </div>
 
 ## 🖋 Writing with
 Go言語を普段書いている人です。C++なども使えなくはないです。そろそろrustかV言語を始めようと画策しています。<br>
 I'm man writting code with Go-language. Maybe, it is false that I cannot write C++ code. I plan getting started rust or V-language.
-
-<div style="text-align:center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=streamwest-1629&layout=compact" width=100%/>
-</div>
-
 ## 🎁 Product/Joining
 ### 🚀　Running
 #### 52/69 min. もくもく会
