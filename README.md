@@ -22,17 +22,18 @@ Go言語によって記述された運営ボットが主体となって運営す
 
 **参加は大歓迎ですが、一応把握するので、バッチからはTwitterに飛ぶので参加希望の方はTwitterのDMでお声がけください。**
 
-#### Panda Internship
-[Panda Co., Ltd.](https://pd-panda.com)でインターン生として働いています。主にバックエンドを担当しています。
-
-#### JPHACKS 2021
-JPHACKS2021に参加しています。
+#### Other
+| Joining | Abstract | URL |
+| :-- | :-- | :-- |
+| Panda Internship | Pandaという会社でインターンをしています。<br>バックエンドを担当しています。 | https://pd-panda.com |
+| JPHACKS 2021 | C_2122チームメンバーとして参加しています。 ||
+| GCI2021 Winter | 受講生として参加しています。 | https://gci.t.u-tokyo.ac.jp/gci-2021-winter/ |
 
 ### ✅ Done
-#### rehearsal
+#### rehearsal　(技育展)
 プロセス間通信を標準入力に変換して様々なプログラムに渡すテストツールです。
 
-#### 希望の睡眠(Desires of sheep)
+#### 希望の睡眠(Desires of sheep)
 一定時間になると自動的にシャットダウンを行うアプリケーションです。Electron/JavaScriptを使用し、Win/Mac/Linuxで動作します。
 
 These cards are powered by https://github.com/anuraghazra/github-readme-stats
