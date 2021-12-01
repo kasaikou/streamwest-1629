@@ -15,7 +15,7 @@ Go言語を普段書いている人です。C++なども使えなくはないで
 I'm man writting code with Go-language. Maybe, it is false that I cannot write C++ code. I plan getting started rust or V-language.
 ## 🎁 Product/Joining
 ### 🚀　Running
-#### 52/69 min. もくもく会
+#### 適度に駄弁るもくもく会
  [![](https://img.shields.io/discord/882251541757718609?color=red&label=52%2F69%20min.%20%E3%82%82%E3%81%8F%E3%82%82%E3%81%8F%E4%BC%9A&logo=discord&logoColor=white&style=plastic)](https://twitter.com/streamwest1629)
 
 Go言語によって記述された運営ボットが主体となって運営する常設型のもくもく会です。ミュート管理や休憩時の部屋分けなどを行います。
@@ -26,7 +26,6 @@ Go言語によって記述された運営ボットが主体となって運営す
 | Joining | Abstract | URL |
 | :-- | :-- | :-- |
 | Panda Internship | Pandaという会社でインターンをしています。<br>バックエンドを担当しています。 | https://pd-panda.com |
-| JPHACKS 2021 | C_2122チームメンバーとして参加しています。 ||
 | GCI2021 Winter | 受講生として参加しています。 | https://gci.t.u-tokyo.ac.jp/gci-2021-winter/ |
 | Micromouse | マイクロマウス用のプログラムを開発しています ||
 
