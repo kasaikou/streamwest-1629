@@ -26,6 +26,7 @@ Go言語によって記述された運営ボットが主体となって運営す
 | Joining | Abstract | URL |
 | :-- | :-- | :-- |
 | Panda Internship | Pandaという会社でインターンをしています。<br>バックエンドを担当しています。 | https://pd-panda.com |
+| Nealle Internship | Nealleという会社でインターンをしています．<br>AWS周りの課題を解決しています． | https://www.nealle.com/ |
 | GCI2021 Winter | 受講生として参加しています。 | https://gci.t.u-tokyo.ac.jp/gci-2021-winter/ |
 | Micromouse | マイクロマウス用のプログラムを開発しています ||
 
@@ -35,5 +36,8 @@ Go言語によって記述された運営ボットが主体となって運営す
 
 #### 希望の睡眠(Desires of sheep)
 一定時間になると自動的にシャットダウンを行うアプリケーションです。Electron/JavaScriptを使用し、Win/Mac/Linuxで動作します。
+
+#### [GCI 2021 Winter](https://gci.t.u-tokyo.ac.jp/gci-2021-winter/)
+データサイエンスがテーマの外部講座に参加して無事修了しました．
 
 These cards are powered by https://github.com/anuraghazra/github-readme-stats
