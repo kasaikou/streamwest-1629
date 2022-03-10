@@ -27,8 +27,6 @@ Go言語によって記述された運営ボットが主体となって運営す
 | :-- | :-- | :-- |
 | Panda Internship | Pandaという会社でインターンをしています。<br>バックエンドを担当しています。 | https://pd-panda.com |
 | Nealle Internship | Nealleという会社でインターンをしています．<br>AWS周りの課題を解決しています． | https://www.nealle.com/ |
-| GCI2021 Winter | 受講生として参加しています。 | https://gci.t.u-tokyo.ac.jp/gci-2021-winter/ |
-| Micromouse | マイクロマウス用のプログラムを開発しています ||
 
 ### ✅ Done
 #### rehearsal　(技育展)
