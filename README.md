@@ -11,7 +11,7 @@ I'm a collage student NOT becoming rumor in the street, and loving in making thi
 </div>
 
 ## 🖋 Writing with
-Go言語を普段書いている人です。C++なども使えなくはないです。そろそろrustかV言語を始めようと画策しています。<br>
+Go言語を普段書いている人です。C#やC++なども使えなくはないです。そろそろrustなりDart(Flutter)を始めようと画策しています。<br>
 I'm man writting code with Go-language. Maybe, it is false that I cannot write C++ code. I plan getting started rust or V-language.
 ## 🎁 Product/Joining
 ### 🚀　Running
