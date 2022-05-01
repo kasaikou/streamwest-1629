@@ -27,6 +27,7 @@ Go言語によって記述された運営ボットが主体となって運営す
 | :-- | :-- | :-- |
 | Panda Internship | Pandaという会社でインターンをしています。<br>バックエンドを担当しています。 | https://pd-panda.com |
 | Nealle Internship | Nealleという会社でインターンをしています．<br>AWS周りの課題を解決しています． | https://www.nealle.com/ |
+| Deep Learning基礎講座 | 機械学習についてもっと知りたい（趣味） | https://deeplearning.jp/lectures/dlb2022/ 
 
 ### ✅ Done
 #### rehearsal　(技育展)
