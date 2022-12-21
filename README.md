@@ -20,8 +20,6 @@ I'm man writting code with Go-language. Maybe, it is false that I cannot write C
 ### 🚀　Running
 | Running | Abstract | URL |
 | :-- | :-- | :-- |
-| 適度に駄弁る作業部屋 | Go言語によって記述された運営ボットが主体となって運営する常設型の作業部屋です。<br>参加は大歓迎ですが、一応把握するので、バッチからはTwitterに飛ぶので参加希望の方はTwitterのDMでお声がけください。 |  [![](https://img.shields.io/discord/882251541757718609?color=red&label=52%2F69%20min.%20%E3%82%82%E3%81%8F%E3%82%82%E3%81%8F%E4%BC%9A&logo=discord&logoColor=white&style=plastic)](https://twitter.com/streamwest1629) |
-| DeepLab | 機械学習用に構築しているコンテナ環境群です | https://github.com/streamwest-1629/deeplab |
 
 ### ✅ Done
 | Done | Abstract | URL |
