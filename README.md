@@ -6,9 +6,9 @@
 巷で噂にならない大学生です。物を作るのが好きです。<br>
 I'm a collage student NOT becoming rumor in the street, and loving in making things.
 
-<div style="vertical-align:center;">
+<!-- <div style="vertical-align:center;">
 <img height="150px" src="https://github-readme-stats.vercel.app/api/?username=streamwest-1629&show_icons=true&count_private=true"/><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=streamwest-1629&layout=compact"/>
-</div>
+</div> -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=streamwest-1629&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
