@@ -14,20 +14,5 @@ I'm a collage student NOT becoming rumor in the street, and loving in making thi
 )](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🖋 Writing with
-Go言語を普段書いている人です。C#やC++，Pythonなども使えなくはないです。そろそろrustなりDart(Flutter)を始めようと画策しています。<br>
-I'm man writting code with Go-language. Maybe, it is false that I cannot write C#, C++, and Python code. I plan getting started rust or Dart, which famous for its SDK: flutter.
-## 🎁 Product/Joining
-### 🚀　Running
-| Running | Abstract | URL |
-| :-- | :-- | :-- |
-
-### ✅ Done
-| Done | Abstract | URL |
-| :-- | :-- | :-- |
-| rehearsal | プロセス間通信を標準入力に変換して様々なプログラムに渡すテストツールです。<br>技育展で登壇させていただきました． | https://rehearsal-open.github.io |
-| 希望の睡眠 | 一定時間になると自動的にシャットダウンを行うアプリケーションです。 | https://github.com/streamwest-1629/desire-of-sheep |
-| GCI 2021 Winter | データサイエンスがテーマの外部講座に参加して無事修了しました． | https://gci.t.u-tokyo.ac.jp/gci-2021-winter/ |
-| Panda Internship | Pandaという会社でインターンをしています。<br>バックエンドを担当していました。 | https://pd-panda.com |
-| mirrativ Internship | Mirrativという会社でインターンしています．<br>GCP周りで課題を解決しています． | https://tech.mirrativ.stream/entry/2022/09/16/140901 |
-| Deep Learning基礎講座 | 機械学習についてもっと知りたい（趣味） | https://deeplearning.jp/lectures/dlb2022/ |
-| Nealle Internship | Nealleという会社でインターンをしています．<br>AWS周りの課題を解決しています． | https://www.nealle.com/ |
+Go言語を普段書いている人です。C#やC++，Pythonなども使えなくはないです。そろそろTSなりrustなりDart(Flutter)を始めようと画策しています。<br>
+I'm man writting code with Go-language. Maybe, it is false that I cannot write C#, C++, and Python code. I plan getting started ts, rust or Dart, which famous for its SDK: flutter.
