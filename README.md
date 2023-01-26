@@ -16,3 +16,8 @@ I'm a collage student NOT becoming rumor in the street, and loving in making thi
 ## 🖋 Writing with
 Go言語を普段書いている人です。C#やC++，Pythonなども使えなくはないです。そろそろTSなりrustなりDart(Flutter)を始めようと画策しています。<br>
 I'm man writting code with Go-language. Maybe, it is false that I cannot write C#, C++, and Python code. I plan getting started ts, rust or Dart, which famous for its SDK: flutter.
+
+## 🎉Works, Publications
+
+- **技育展2022（2022）** - 学生向けピッチコンテスト。テスト用CLIツールを開発し登壇した。[_スライド_](https://speakerdeck.com/streamwest1629/rehearsal)
+- **VSCode Conference Japan 2022-2023（2023）** - VSCode Dev Containersについてのより良い運用法について紹介した。[_スライド_](https://speakerdeck.com/streamwest1629/dev-containers-kotohazime-shi-bai-karaxue-bukai-fa-huan-jing-yun-yong-fa)
