@@ -19,5 +19,5 @@ I'm man writting code with Go-language. Maybe, it is false that I cannot write C
 
 ## 🎉Works, Publications
 
-- **技育展2022（2022）** - 学生向けピッチコンテスト。テスト用CLIツールを開発し登壇した。[_スライド_](https://speakerdeck.com/streamwest1629/rehearsal)
+- **技育展2021（2021）** - 学生向けピッチコンテスト。テスト用CLIツールを開発し登壇した。[_スライド_](https://speakerdeck.com/streamwest1629/rehearsal)
 - **VSCode Conference Japan 2022-2023（2023）** - VSCode Dev Containersについてのより良い運用法について紹介した。[_スライド_](https://speakerdeck.com/streamwest1629/dev-containers-kotohazime-shi-bai-karaxue-bukai-fa-huan-jing-yun-yong-fa)
