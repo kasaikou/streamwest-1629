@@ -1,6 +1,6 @@
 # 🔖　My name is StreamWest-1629
 
-[![](https://img.shields.io/twitter/follow/streamwest1629?color=%234Bf&label=followers&style=plastic&logo=twitter&logoColor=white)](https://twitter.com/streamwest1629) [![](https://img.shields.io/github/followers/streamwest-1629?color=%2384F&label=followers&logo=github&style=plastic)](https://github.com/streamwest-1629) [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fstreamwest1629&style=plastic)](https://atcoder.jp/users/streamwest1629) [![](https://img.shields.io/badge/Zenn-streamwest1629-lightgrey?style=plastic&logo=zenn)](https://zenn.dev/streamwest1629)
+[![](https://img.shields.io/github/followers/streamwest-1629?color=%2384F&label=followers&logo=github&style=plastic)](https://github.com/streamwest-1629) [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fstreamwest1629&style=plastic)](https://atcoder.jp/users/streamwest1629) [![](https://img.shields.io/badge/Zenn-streamwest1629-lightgrey?style=plastic&logo=zenn)](https://zenn.dev/streamwest1629)
 
 
 巷で噂にならない大学生です。物を作るのが好きです。<br>
