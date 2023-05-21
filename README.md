@@ -21,3 +21,4 @@ I'm man writting code with Go-language. Maybe, it is false that I cannot write C
 
 - **技育展2021（2021）** - 学生向けピッチコンテスト。テスト用CLIツールを開発し登壇した。[_スライド_](https://speakerdeck.com/streamwest1629/rehearsal)
 - **VSCode Conference Japan 2022-2023（2023）** - VSCode Dev Containersについてのより良い運用法について紹介した。[_スライド_](https://speakerdeck.com/streamwest1629/dev-containers-kotohazime-shi-bai-karaxue-bukai-fa-huan-jing-yun-yong-fa)
+- **技術書典 14 （2023）** - 「直感で生きる人のためのソフトウェア設計」を執筆した [販売ページ](https://techbookfest.org/product/s8AsP5GLnEvPFuS73CTks8)
